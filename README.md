@@ -42,6 +42,6 @@ Finally, there are still quite a few things that would be nice to implement to i
 
 ![Frogger-snapshot](https://github.com/AvidDrawer/Frogger/blob/master/Frogger-images/Frogger.png)
 
-[Screen capture](http://google.com) of the game in operation. Given the first implementation more or less captures the essence of the
+[Screen capture](https://raw.githubusercontent.com/AvidDrawer/Frogger/master/Frogger-images/Frogger-gameplay.mp4) of the game in operation. Given the first implementation more or less captures the essence of the
 game, the updates to transform it into a true game will be left on the backburner- I'll eventually get to it, just not yet.
 
